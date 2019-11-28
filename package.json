@@ -1,13 +1,16 @@
 {
-  "name": "light-bootstrap-dashboard-pro-react",
+  "name": "light-dashboard-react",
+  "homepage": "https://parallelam.github.io/Light/",
   "version": "1.2.0",
   "private": true,
   "dependencies": {
     "bootstrap": "3.3.7",
     "chartist": "0.10.1",
+    "gh-pages": "^2.1.1",
     "history": "4.9.0",
     "moment": "2.24.0",
-    "node-sass": "4.12.0",
+    "node": "13.1.0",
+    "node-sass": "4.13.0",
     "nouislider": "13.1.5",
     "perfect-scrollbar": "1.4.0",
     "react": "16.8.6",
@@ -39,7 +42,9 @@
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
     "compile-sass": "node-sass src/assets/sass/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.css",
     "minify-sass": "node-sass src/assets/sass/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.min.css --output-style compressed",
-    "map-sass": "node-sass src/assets/sass/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.css --source-map true"
+    "map-sass": "node-sass src/assets/sass/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.css --source-map true",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/googlemaps": "3.30.19",
