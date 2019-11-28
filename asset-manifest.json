@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Light/static/css/main.10c0986d.chunk.css",
+    "main.js": "/Light/static/js/main.3f554bee.chunk.js",
+    "main.js.map": "/Light/static/js/main.3f554bee.chunk.js.map",
+    "runtime~main.js": "/Light/static/js/runtime~main.b8a6b8b0.js",
+    "runtime~main.js.map": "/Light/static/js/runtime~main.b8a6b8b0.js.map",
+    "static/css/2.b57565c3.chunk.css": "/Light/static/css/2.b57565c3.chunk.css",
+    "static/js/2.330243b1.chunk.js": "/Light/static/js/2.330243b1.chunk.js",
+    "static/js/2.330243b1.chunk.js.map": "/Light/static/js/2.330243b1.chunk.js.map",
+    "index.html": "/Light/index.html",
+    "precache-manifest.bafaca0c855377a24d92e278fdac5533.js": "/Light/precache-manifest.bafaca0c855377a24d92e278fdac5533.js",
+    "service-worker.js": "/Light/service-worker.js",
+    "static/css/2.b57565c3.chunk.css.map": "/Light/static/css/2.b57565c3.chunk.css.map",
+    "static/css/main.10c0986d.chunk.css.map": "/Light/static/css/main.10c0986d.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/Light/static/media/Pe-icon-7-stroke.dedf2698.svg",
+    "static/media/blog-1.jpg": "/Light/static/media/blog-1.f8a971d4.jpg",
+    "static/media/blog-2.jpg": "/Light/static/media/blog-2.8e6cd66a.jpg",
+    "static/media/blog-3.jpg": "/Light/static/media/blog-3.d7187400.jpg",
+    "static/media/blog-4.jpg": "/Light/static/media/blog-4.d43c772e.jpg",
+    "static/media/blog-5.jpg": "/Light/static/media/blog-5.b69dd3dc.jpg",
+    "static/media/default-avatar.png": "/Light/static/media/default-avatar.f653841f.png",
+    "static/media/full-screen-image-1.jpg": "/Light/static/media/full-screen-image-1.3b3892d1.jpg",
+    "static/media/full-screen-image-2.jpg": "/Light/static/media/full-screen-image-2.f7c47e22.jpg",
+    "static/media/full-screen-image-3.jpg": "/Light/static/media/full-screen-image-3.ef9c8d65.jpg",
+    "static/media/full-screen-image-4.jpg": "/Light/static/media/full-screen-image-4.58666ce4.jpg",
+    "static/media/bootstrap.min.css": "/Light/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/logo.svg": "/Light/static/media/logo.ee7cd8ed.svg"
+  }
+}
